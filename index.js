@@ -549,7 +549,7 @@ st =`╭───❒ ♛ 𝙐𝙨𝙚𝙧 𝙄𝙣𝙛𝙤 ♛
 ╭──❒ ♛ 𝙄𝙉𝙁𝙊 𝘽𝙊𝙏 ♛
 ❒ 𝐍𝐚𝐦𝐞 : *${botName}*
 ❒ 𝐎𝐰𝐧𝐞𝐫 : *${ownerName}*
-❒ 𝐀𝐮𝐭𝐡𝐨𝐫 : *Lexxy Official*
+❒ 𝐀𝐮𝐭𝐡𝐨𝐫 : *ZeeHengker*
 ❒ 𝐏𝐫𝐞𝐟𝐢𝐱 : *Multi Prefix*
 ❒ 𝐋𝐢𝐛 : *Baileys*
 ❒ 𝐓𝐲𝐩𝐞 : *NodeJS*
@@ -1075,7 +1075,7 @@ sendButLoc(from, st, st2, img1, but)
 Lexxy.sendMessage(from, yu, audio, { mimetype: 'audio/mp4', ptt:true })
 break
 case 'scbot':
-reply('Bot ini Menggunakan sc\nhttps://youtu.be/_44pvsbCR6s')
+reply('Bot ini Menggunakan sc\nPribadi')
 break
 case 'runtime':
 uptime = process.uptime();
